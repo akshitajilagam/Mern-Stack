@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML links Example</title>
+</head>
+<body>
+
+<h2>Click the image to open AEC Gallery</h2>
+
+<a href="https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?cs=srgb&dl=pexels-philippedonn-1133957.jpg&fm=jpg" target="_blank">
+    <img src="https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg" alt="AEC Gallery Image" width="300">
+</a>
+
+</body>
+</html>
